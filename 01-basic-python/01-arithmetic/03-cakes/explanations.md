@@ -40,3 +40,13 @@ min([5, 2, 9, 4])        # Returns 2
 # Works on all comparable values
 min('t', 'd', 'p')       # Returns 'd'
 ```
+
+Now, to test your `cake` function, enter the following command in this directory:
+
+```bash
+$ scripting test
+PASS 7
+FAIL 0
+SKIP 0
+Score: 1.0/1
+```
